@@ -1,0 +1,9 @@
+/node_modules/*
+/static/rmobile/common/js/lib/flexible/*
+/static/rmobile/common/js/app/monitor/*
+/static/rmobile/common/js/lib/zepto/*
+/static/rmobile/common/js/lib/md5/*
+/static/rmobile/common/js/lib/fx.apm/*
+/static/rmobile/common/js/app/mobilecall/*
+/static/rmobile/common/js/app/weixinShare/qqshare.js
+/staticPub/*
